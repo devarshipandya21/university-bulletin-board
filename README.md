@@ -4,3 +4,4 @@ CHARUSAT Bulletin Board aims to solve this issue. It is solely used to circulate
 Students can ask queries to the concerned authorities which can be answered by the faculty. So this is a common platform for sharing relevant information to the concerned students in a university.
 
 # System Screenshots
+![](system-images/Capture1)
